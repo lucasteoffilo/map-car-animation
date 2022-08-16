@@ -1,4 +1,5 @@
-# Aplicação de animação de ponteiro em mapas em tempo real utilizando socket.io
+# map-car-animation
+Aplicação que mostra em tempo real a animação do marcador se movendo no mapa utilizando socket.io
 ###### Tecnologias
 
 - AngularJS
